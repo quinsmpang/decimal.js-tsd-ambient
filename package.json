@@ -1,0 +1,15 @@
+{
+  "name": "retyped-decimal.js-tsd-ambient",
+  "description": "TypeScript typings for decimal.js",
+  "version": "288-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/decimal.js-tsd-ambient",
+  "typescript": {
+    "definition": "decimal.js.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
